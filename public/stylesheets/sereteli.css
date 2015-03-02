@@ -5169,7 +5169,8 @@ footer #lang_sel ul ul a, footer #lang_sel_click ul ul a, footer #lang_sel ul ul
 
 .title .separator { background-color: rgba(255, 255, 255, 0.3); }
 
-.resellers { background-color: #f2f1f1; padding-bottom: 40px; padding-top: 40px; }
+.resellers { background-color: #f2f1f1; padding-bottom: 10px; padding-top: 40px; }
+.resellers .title { font-size: 23px; }
 
 @media only screen and (min-width: 1200px) and (max-width: 1600px) { .full_width .projects_masonry_holder .portfolio_masonry_item, .full_width .projects_masonry_holder .portfolio_masonry_item.large_height { width: 24.98% !important; margin: 0 !important; }
   .full_width .projects_masonry_holder .portfolio_masonry_item.large_width, .full_width .projects_masonry_holder .portfolio_masonry_item.large_width_height { width: 49.96% !important; margin: 0 !important; } }

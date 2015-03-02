@@ -150,23 +150,24 @@
 
 
 <div  class="resellers vc_row wpb_row section vc_row-fluid grid_section" style=' text-align:left;'><div class=" section_inner clearfix"><div class='section_inner_margin clearfix'>
-	<div class="vc_col-sm-2 wpb_column vc_column_container">
+	<div class="vc_col-sm-3 wpb_column vc_column_container">
+		<div class="wpb_wrapper title">
+			
+		</div>
+	</div>
+	
+	<div class="vc_col-sm-3 wpb_column vc_column_container">
 		<div class="wpb_wrapper"><div>
-				Somos resellers de:
+				<center>
+				<img src="<?=base_url()?>public/img/mitel.png" alt=""></center>
 			</div>
 			
 		</div>
 	</div>
 	<div class="vc_col-sm-3 wpb_column vc_column_container">
 		<div class="wpb_wrapper"><div>
-				<img src="<?=base_url()?>public/img/mitel.png" alt="">
-			</div>
-			
-		</div>
-	</div>
-	<div class="vc_col-sm-3 wpb_column vc_column_container">
-		<div class="wpb_wrapper"><div>
-				<img src="<?=base_url()?>public/img/nec.png" alt="">
+				<center>
+				<img src="<?=base_url()?>public/img/nec.png" alt=""></center>
 			</div>
 			
 		</div>
@@ -210,14 +211,13 @@
 
 	<div class="wpb_text_column wpb_content_element ">
 		<div class="wpb_wrapper">
-			<h2 style="text-align: center;">About Us</h2>
+			<h2 style="text-align: center;">Sereteli</h2>
 
 		</div>
 	</div> <span class="separator_with_icon" style='color:#dedede;opacity:0.9;'><i class="fa fa-codepen"></i></span>
 	<div class="wpb_text_column wpb_content_element ">
 		<div class="wpb_wrapper">
-			<h4 style="text-align: center;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent metus magna, malesuada porta elementum vitae,<br />
-hendrerit sed nunec ut placerat odio.</h4>
+			<h4 style="text-align: center;">Las Tecnologías de la Información son una herramienta cada vez más importante y necesarias en los negocios, las áreas de voz, datos y video, están en constante actualización; y más y mejores soluciones surgen para resolver los requerimientos tecnológicos de cada empresa, incluidas las PYMES.</h4>
 
 		</div>
 	</div> <div class="separator  transparent center  " style="margin-top: 35px;margin-bottom: 46px;"></div>
