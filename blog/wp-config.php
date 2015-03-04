@@ -71,6 +71,7 @@ $table_prefix  = 'wp_';
  * in their development environments.
  */
 define('WP_DEBUG', false);
+define('WPLANG', 'es_MX');
 
 /* That's all, stop editing! Happy blogging. */
 

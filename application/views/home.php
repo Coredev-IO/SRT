@@ -234,7 +234,17 @@
 
 
  -->
+
+                  
+
+
+                    <div class="full_width">
+                        <div class="full_width_inner">
+                            <div data-q_id="#about" class="vc_row wpb_row section vc_row-fluid grid_section" style=' padding-top:80px; padding-bottom:14px; text-align:left;'>
                                 <div class=" section_inner clearfix">
+                                    <div class='section_inner_margin clearfix'>
+
+                                    <div class=" section_inner clearfix">
                                     <div class='section_inner_margin clearfix'>
                                         <div class="vc_col-sm-12 wpb_column vc_column_container">
                                             <div class="wpb_wrapper">
@@ -250,7 +260,21 @@
                                                         <h4 style="text-align: center;">Las Tecnologías de la Información son una herramienta cada vez más importante y necesarias en los negocios, las áreas de voz, datos y video, están en constante actualización; y más y mejores soluciones surgen para resolver los requerimientos tecnológicos de cada empresa, incluidas las PYMES.</h4>
                                                     </div>
                                                 </div>
-                                                <div class="separator  transparent center  " style="margin-top:25px; margin-bottom:45px;"></div>
+                                                  
+                                                    </div>
+                                            </div>
+                                        </div>
+                                    </div>
+
+
+                    </div></div></div></div></div>
+
+                                    <div class=" section_inner clearfix">
+                                    <div class='section_inner_margin clearfix'>
+                                        <div class="vc_col-sm-12 wpb_column vc_column_container">
+                                            <div class="wpb_wrapper">
+                                                
+                                                 
                                                     
                                                     <div class='fade1 scrollme animateme', data-when="span" data-from="1" data-to="0" data-crop="false" data-opacity="0" data-scale="1.5" style="opacity: 0.99; transform: translate3d(0px, 0px, 0px) rotateX(0deg) rotateY(0deg) rotateZ(0deg) scale3d(1.004, 1.004, 1.004);">
                                                             <img class='active_image tamanoAuto' src='<?=base_url()?>public/img/ciudad.png' alt='' style='width: 100%;' />
@@ -259,14 +283,16 @@
                                             </div>
                                         </div>
                                     </div>
-                                </div>
 
 
-                    <div class="full_width">
+
+
+                        <div class="full_width">
                         <div class="full_width_inner">
                             <div data-q_id="#about" class="vc_row wpb_row section vc_row-fluid grid_section" style=' padding-top:80px; padding-bottom:14px; text-align:left;'>
                                 <div class=" section_inner clearfix">
                                     <div class='section_inner_margin clearfix'>
+
                                         <div class="vc_col-sm-12 wpb_column vc_column_container">
                                             <div class="wpb_wrapper">
                                                 <!-- <div class="wpb_text_column wpb_content_element ">
@@ -277,25 +303,25 @@
                                                 <!-- <div class="separator  transparent center  " style="margin-top: 35px;margin-bottom: 46px;"></div> -->
                                                 <div class="vc_row wpb_row section vc_row-fluid" style=' text-align:left;'>
                                                     <div class=" full_section_inner clearfix">
-                                                        <div class="vc_col-sm-4 wpb_column vc_column_container scrollme animateme", data-when="enter" data-from="0.75" data-to="0" data-opacity="0" data-translatex="-500" style="opacity: 0.92; transform: translate3d(31px, 0px, 0px) rotateX(0deg) rotateY(0deg) rotateZ(0deg) scale3d(1, 1, 1);">
+                                                        <div class="vc_col-sm-4 wpb_column vc_column_container", data-when="enter" data-from="0.75" data-to="0" data-opacity="0" data-translatex="-500" style="opacity: 0.92; transform: translate3d(31px, 0px, 0px) rotateX(0deg) rotateY(0deg) rotateZ(0deg) scale3d(1, 1, 1);">
                                                             <div class="wpb_wrapper">
                                                                 <div class='image_hover hovered' style='' data-transition-delay='0.3'>
-                                                                    <div class='blur'>
+                                                                    <div class=''>
                                                                         <img class='active_image ' src='<?=base_url()?>public//uploads/2014/05/worldNetwork.png' alt='' style='' />
                                                                     </div>
                                                                 </div>
                                                                 <div class="separator  transparent center  " style="margin-top: 30px;margin-bottom: 0px;"></div>
 
                                                                 <div class="wpb_text_column wpb_content_element ">
-                                                                    <div class="wpb_wrapper">
-                                                                        <h3>Nosotros...</h3>
+                                                                    <div class="wpb_wrapper center">
+                                                                        <h3>Nosotros</h3>
 
                                                                     </div>
                                                                 </div>
                                                                 <div class="separator  transparent center  " style="margin-top: 16px;margin-bottom: 0px;"></div>
 
                                                                 <div class="wpb_text_column wpb_content_element ">
-                                                                    <div class="wpb_wrapper">
+                                                                    <div class="wpb_wrapper center">
                                                                         <p>SERETELI inicia en el 2006 como integradores de servicios; con la comercialización de equipamiento y refacciones para equipos de voz (telefonía) y datos (redes), así como los servicios de mantenimiento por evento.</p>
 
                                                                     </div>
@@ -308,25 +334,25 @@
                                                             </div>
                                                         </div>
 
-                                                        <div class="vc_col-sm-4 wpb_column vc_column_container scrollme animateme", data-when="enter" data-from="0.75" data-to="0" data-opacity="0" data-translatex="-1000" style="opacity: 0.92; transform: translate3d(31px, 0px, 0px) rotateX(0deg) rotateY(0deg) rotateZ(0deg) scale3d(1, 1, 1);">
+                                                        <div class="vc_col-sm-4 wpb_column vc_column_container", data-when="enter" data-from="0.75" data-to="0" data-opacity="0" data-translatex="-1000" style="opacity: 0.92; transform: translate3d(31px, 0px, 0px) rotateX(0deg) rotateY(0deg) rotateZ(0deg) scale3d(1, 1, 1);">
                                                             <div class="wpb_wrapper">
                                                                 <div class='image_hover hovered' style='' data-transition-delay='0.3'>
-                                                                    <div class='blur'>
+                                                                    <div class=''>
                                                                         <img class='active_image ' src='<?=base_url()?>public//uploads/2014/05/phone1.png' alt='' style='' />
                                                                     </div>
                                                                 </div>
                                                                 <div class="separator  transparent center  " style="margin-top: 30px;margin-bottom: 0px;"></div>
 
                                                                 <div class="wpb_text_column wpb_content_element ">
-                                                                    <div class="wpb_wrapper">
-                                                                        <h3>Nuestros Avances...</h3>
+                                                                    <div class="wpb_wrapper center">
+                                                                        <h3>Nuestros Avances</h3>
 
                                                                     </div>
                                                                 </div>
                                                                 <div class="separator  transparent center  " style="margin-top: 16px;margin-bottom: 0px;"></div>
 
                                                                 <div class="wpb_text_column wpb_content_element ">
-                                                                    <div class="wpb_wrapper">
+                                                                    <div class="wpb_wrapper center">
                                                                         <p>Poco después y atendiendo a las solicitudes de nuestros clientes se inicia con los servicios de arrendamiento de equipo para Centros de Contacto, desde teléfonos y diademas telefónicas hasta los equipos de grabación y monitoreo de llamadas de los agentes telefónicos.</p>
 
                                                                     </div>
@@ -339,25 +365,25 @@
                                                             </div>
                                                         </div>
 
-                                                        <div class="vc_col-sm-4 wpb_column vc_column_container scrollme animateme", data-when="enter" data-from="0.75" data-to="0" data-opacity="0" data-translatex="-1500" style="opacity: 0.92; transform: translate3d(31px, 0px, 0px) rotateX(0deg) rotateY(0deg) rotateZ(0deg) scale3d(1, 1, 1);">
+                                                        <div class="vc_col-sm-4 wpb_column vc_column_container ", data-when="enter" data-from="0.75" data-to="0" data-opacity="0" data-translatex="-1500" style="opacity: 0.92; transform: translate3d(31px, 0px, 0px) rotateX(0deg) rotateY(0deg) rotateZ(0deg) scale3d(1, 1, 1);">
                                                             <div class="wpb_wrapper">
                                                                 <div class='image_hover hovered' style='' data-transition-delay='0.3'>
-                                                                    <div class='blur'>
+                                                                    <div class=''>
                                                                         <img class='active_image ' src='<?=base_url()?>public//uploads/2014/05/client1.png' alt='' style='' />
                                                                     </div>
                                                                 </div>
                                                                 <div class="separator  transparent center  " style="margin-top: 30px;margin-bottom: 0px;"></div>
 
                                                                 <div class="wpb_text_column wpb_content_element ">
-                                                                    <div class="wpb_wrapper">
-                                                                        <h3>Nuestros Resultados...</h3>
+                                                                    <div class="wpb_wrapper center">
+                                                                        <h3>Nuestros Resultados</h3>
 
                                                                     </div>
                                                                 </div>
                                                                 <div class="separator  transparent center  " style="margin-top: 16px;margin-bottom: 0px;"></div>
 
                                                                 <div class="wpb_text_column wpb_content_element ">
-                                                                    <div class="wpb_wrapper">
+                                                                    <div class="wpb_wrapper center">
                                                                         <p>El constante contacto y retroalimentación que hay con el cliente y usuarios finales, nuestra cartera de servicios ha ido creciendo con Administración de proyectos, Cableado estructurado, Servicios de soporte y apoyo en sitio, Capacitación a usuarios, etc. Lo que nos motiva a seguir preparándonos para poder seguir participando en nuevos proyectos y crecer día a día.</p>
 
                                                                     </div>
