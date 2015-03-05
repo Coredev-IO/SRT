@@ -1,19 +1,6 @@
 {
-  "name": "sereteli",
-  "version": "0.0.0",
-  "authors": [
-    "Octavio Martinez Campuzano <octavio.martinez@coredev.io>"
-  ],
-  "moduleType": [
-    "node"
-  ],
-  "license": "MIT",
-  "private": true,
-  "ignore": [
-    "**/.*",
-    "node_modules",
-    "bower_components",
-    "test",
-    "tests"
-  ]
+  "name": "foundation-libsass-template",
+  "dependencies": {
+    "foundation": "zurb/bower-foundation"
+  }
 }
