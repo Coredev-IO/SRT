@@ -16,7 +16,7 @@ class Blog extends CI_Model {
 		$this->db->where('post_status', 'publish');
 		$this->db->where('post_type', 'post');
 		$this->db->order_by("post_date", "desc"); 
-		$this->db->limit(3);
+		$this->db->limit(6);
 
 		$query = $this->db->get();
 

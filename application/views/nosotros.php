@@ -9,7 +9,7 @@
     <script src="<?=base_url() ?>bower_components/modernizr/modernizr.js"></script>
   </head>
   <body>
-    <div class="contain-to-grid sticky">
+    <div class="contain-to-grid">
       <nav class="top-bar fixed" data-topbar role="navigation">
         <ul class="title-area">
           <li class="name">
@@ -49,6 +49,43 @@
     <div class="small-12 medium-6 large-6 columns">Nosotros</div>
   </div>
 </div>
+
+<div class="row">
+  <div class="small-12 columns"><center><img src="<?=base_url() ?>assets/img/logo.png" alt="logo" /></center></div>
+</div>
+
+<div class="row">
+  <div class="small-12 medium-12 large-12 columns">
+    
+    <div class="aviso">
+      <p>SERETELI inicia en el 2006 como integradores de servicios; con la comercialización de equipamiento y refacciones para equipos de voz (telefonía) y datos (redes), así como los servicios de mantenimiento por evento. </p>
+    </div>
+
+  </div>
+</div>
+
+
+<div class="row">
+  <div class="small-12 medium-12 large-12 columns">
+    
+    <div class="aviso">
+      <p>Poco después y atendiendo a las solicitudes de nuestros clientes se inicia con los servicios de arrendamiento de equipo para Centros de Contacto, desde teléfonos y diademas telefónicas hasta los equipos de grabación y monitoreo de llamadas de los agentes telefónicos. </p>
+    </div>
+
+  </div>
+</div>
+
+
+<div class="row">
+  <div class="small-12 medium-12 large-12 columns">
+    
+    <div class="aviso">
+      <p>Actualmente y como resultado del constante contacto y retroalimentación que hay con el cliente y usuarios finales, nuestra cartera de servicios ha ido creciendo con Administración de proyectos, Cableado estructurado, Servicios de soporte y apoyo en sitio, Capacitación a usuarios, etc. Lo que nos motiva a seguir preparándonos para poder seguir participando en nuevos proyectos y crecer día a día.</p>
+    </div>
+
+  </div>
+</div>
+
 
 
 <footer>

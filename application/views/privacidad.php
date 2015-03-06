@@ -10,7 +10,7 @@
     <script src="<?=base_url() ?>bower_components/modernizr/modernizr.js"></script>
   </head>
   <body>
-    <div class="contain-to-grid sticky">
+    <div class="contain-to-grid">
       <nav class="top-bar fixed" data-topbar role="navigation">
         <ul class="title-area">
           <li class="name">
