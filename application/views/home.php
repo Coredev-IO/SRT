@@ -4,16 +4,16 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Sereteli</title>
-    <link rel="stylesheet" href="<?=base_url() ?>assets/css/app.css" />
-    <link rel="stylesheet" href="<?=base_url() ?>assets/css/font-awesome.css" />
-    <script src="<?=base_url() ?>bower_components/modernizr/modernizr.js"></script>
+    <link rel="stylesheet" href="http://sereteli.coredev.io/assets/css/app.css" />
+    <link rel="stylesheet" href="http://sereteli.coredev.io/assets/css/font-awesome.css" />
+    <script src="http://sereteli.coredev.io/bower_components/modernizr/modernizr.js"></script>
   </head>
   <body>
     <div class="contain-to-grid">
       <nav class="top-bar fixed" data-topbar role="navigation">
         <ul class="title-area">
           <li class="name">
-            <h1><a href="#"><img src="<?=base_url() ?>assets/img/logo.png" alt="logo" class="logo-header" /></a></h1>
+            <h1><a href="#"><img src="http://sereteli.coredev.io/assets/img/logo.png" alt="logo" class="logo-header" /></a></h1>
           </li>
           <!-- Remove the class "menu-icon" to get rid of menu icon. Take out "Menu" to just have icon alone -->
           <li class="toggle-topbar menu-icon"><a href="#"><span>Menu</span></a></li>
@@ -22,11 +22,11 @@
         <section class="top-bar-section">
           <!-- Right Nav Section -->
           <ul class="right">
-            <li class="active"><a href="<?=base_url() ?>index.php/home">Inicio</a></li>
-            <li class=""><a href="<?=base_url() ?>index.php/servicios">Servicios</a></li>
-            <li class=""><a href="<?=base_url() ?>index.php/nosotros">Nosotros</a></li>
-            <li class=""><a href="<?=base_url() ?>/blog">Blog</a></li>
-            <li class=""><a href="<?=base_url() ?>index.php/contacto">Contacto</a></li>
+            <li class="active"><a href="http://sereteli.coredev.io/index.php/home">Inicio</a></li>
+            <li class=""><a href="http://sereteli.coredev.io/index.php/servicios">Servicios</a></li>
+            <li class=""><a href="http://sereteli.coredev.io/index.php/nosotros">Nosotros</a></li>
+            <li class=""><a href="http://sereteli.coredev.io//blog">Blog</a></li>
+            <li class=""><a href="http://sereteli.coredev.io/index.php/contacto">Contacto</a></li>
           </ul>
           
         </section>
@@ -38,7 +38,7 @@
     -->
     <ul class="example-orbit" data-orbit>
       <li>
-        <img src="<?=base_url() ?>assets/img/bg.jpg" alt="slide 1" />
+        <img src="http://sereteli.coredev.io/assets/img/bg.jpg" alt="slide 1" />
         <div class="orbit-caption">
           <div class="row">
             <div class="large-9 columns">
@@ -52,7 +52,7 @@
       </div>
     </li>
     <li>
-      <img src="<?=base_url() ?>assets/img/bg2.jpg" alt="slide 1" />
+      <img src="http://sereteli.coredev.io/assets/img/bg2.jpg" alt="slide 1" />
       <div class="orbit-caption">
         <div class="row">
           <div class="large-9 columns">
@@ -80,11 +80,11 @@
   <div class="row">
   <div class="small-2 columns">&nbsp</div>
   <div class="small-3 columns">
-    <img src="<?=base_url() ?>assets/img/nec.png"/>
+    <img src="http://sereteli.coredev.io/assets/img/nec.png"/>
   </div>
   <div class="small-2 columns">&nbsp</div>
   <div class="small-3 columns">
-    <img src="<?=base_url() ?>assets/img/mitel.png"/>
+    <img src="http://sereteli.coredev.io/assets/img/mitel.png"/>
   </div>
   <div class="small-2 columns">&nbsp</div>
 
@@ -119,7 +119,7 @@
 <div class="noti">
   
   <div class="row">
-    <div class="small-12 medium-12 large-12 columns"><center><img src="<?=base_url() ?>assets/img/relation.png"/></center></div>
+    <div class="small-12 medium-12 large-12 columns"><center><img src="http://sereteli.coredev.io/assets/img/relation.png"/></center></div>
     <div class="small-12 medium-12 large-12 columns">
       <p>Nuestra experiencia en el mercado, nuestras alianzas directas y el respaldo con fabricantes y proveedores líderes, nos permiten ofrecer la mejor solución con tecnología de vanguardia que se adapte a las necesidades de cada cliente, y la oportunidad de trabajar en equipo, lo cual se traduce en relaciones duraderas y de confianza mutua.</p>
 
@@ -153,10 +153,10 @@
   </div>
 
   <div class="row">
-    <div class="small-12 medium-3 large-3 columns"><center><img src="<?=base_url() ?>assets/img/voice.png"/><br><h1>Servicios de Voz</h1></center></div>
-    <div class="small-12 medium-3 large-3 columns"><center><img src="<?=base_url() ?>assets/img/cable.png"/><br><h1>Servicios de cableado y adecuaciones</h1></center></div>
-    <div class="small-12 medium-3 large-3 columns"><center><img src="<?=base_url() ?>assets/img/ser.png"/><br><h1>Servicios de arrendamiento de equipos de voz, datos y de oficina</h1></center></div>
-    <div class="small-12 medium-3 large-3 columns"><center><img src="<?=base_url() ?>assets/img/tech.png"/><br><h1>Servicios de capacitación a usuarios</h1></center></div>
+    <div class="small-12 medium-3 large-3 columns"><center><img src="http://sereteli.coredev.io/assets/img/voice.png"/><br><h1>Servicios de Voz</h1></center></div>
+    <div class="small-12 medium-3 large-3 columns"><center><img src="http://sereteli.coredev.io/assets/img/cable.png"/><br><h1>Servicios de cableado y adecuaciones</h1></center></div>
+    <div class="small-12 medium-3 large-3 columns"><center><img src="http://sereteli.coredev.io/assets/img/ser.png"/><br><h1>Servicios de arrendamiento de equipos de voz, datos y de oficina</h1></center></div>
+    <div class="small-12 medium-3 large-3 columns"><center><img src="http://sereteli.coredev.io/assets/img/tech.png"/><br><h1>Servicios de capacitación a usuarios</h1></center></div>
   </div>
 
 
@@ -203,7 +203,7 @@ Si tu empresa o negocio está en ese proceso de actualización, acércate a noso
 
 
   ?>
-<a href="<?=base_url() ?>/blog" class="expand button">Leer todas las publicaciones</a><br/>
+<a href="http://sereteli.coredev.io//blog" class="expand button">Leer todas las publicaciones</a><br/>
   </div>
 </div>
 
@@ -216,7 +216,7 @@ Si tu empresa o negocio está en ese proceso de actualización, acércate a noso
 </div>
 </div>
 <div class="small-12 medium-6 mitel columns">
-    <a href="#"><img src="<?=base_url() ?>assets/img/mitel.png" /></a>
+    <a href="#"><img src="http://sereteli.coredev.io/assets/img/mitel.png" /></a>
 </div>
 </div> -->
 
@@ -229,7 +229,7 @@ Si tu empresa o negocio está en ese proceso de actualización, acércate a noso
     <!-- Button Size Classes: [tiny small large] -->
         <li><a href="" class="button">Derechos reservados Sereteli</a></li>
         <li><a href="http://coredev.io" class="button">Diseñado y desarrollado por Coredev</a></li>
-        <li><a href="<?=base_url() ?>index.php/Privacidad" class="button">Aviso de privacidad</a></li>
+        <li><a href="http://sereteli.coredev.io/index.php/Privacidad" class="button">Aviso de privacidad</a></li>
         <li><a href="#" class="button"><i class="fa fa-facebook-square"></i></a></li>
         <li><a href="#" class="button"><i class="fa fa-twitter-square"></i></a></li>
       </ul>
@@ -243,9 +243,9 @@ Si tu empresa o negocio está en ese proceso de actualización, acércate a noso
     <div class="small-6 medium-6 large-6 columns">(55) 55 55 55 55 - correo@correo.correo</div>
   </div>
 </div>
-<script src="<?=base_url() ?>bower_components/jquery/dist/jquery.min.js"></script>
-<script src="<?=base_url() ?>bower_components/foundation/js/foundation.min.js"></script>
-<script src="<?=base_url() ?>assets/js/app.js"></script>
+<script src="http://sereteli.coredev.io/bower_components/jquery/dist/jquery.min.js"></script>
+<script src="http://sereteli.coredev.io/bower_components/foundation/js/foundation.min.js"></script>
+<script src="http://sereteli.coredev.io/assets/js/app.js"></script>
 
 </body>
 </html>

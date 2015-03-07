@@ -4,9 +4,9 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Sereteli</title>
-    <link rel="stylesheet" href="<?=base_url() ?>assets/css/app.css" />
-    <link rel="stylesheet" href="<?=base_url() ?>assets/css/font-awesome.css" />
-    <script src="<?=base_url() ?>bower_components/modernizr/modernizr.js"></script>
+    <link rel="stylesheet" href="http://sereteli.coredev.io/assets/css/app.css" />
+    <link rel="stylesheet" href="http://sereteli.coredev.io/assets/css/font-awesome.css" />
+    <script src="http://sereteli.coredev.io/bower_components/modernizr/modernizr.js"></script>
   </head>
   <body>
 
@@ -14,7 +14,7 @@
       <nav class="top-bar fixed" data-topbar role="navigation">
         <ul class="title-area">
           <li class="name">
-            <h1><a href="#"><img src="<?=base_url() ?>assets/img/logo.png" alt="logo" class="logo-header" /></a></h1>
+            <h1><a href="#"><img src="http://sereteli.coredev.io/assets/img/logo.png" alt="logo" class="logo-header" /></a></h1>
           </li>
           <!-- Remove the class "menu-icon" to get rid of menu icon. Take out "Menu" to just have icon alone -->
           <li class="toggle-topbar menu-icon"><a href="#"><span>Menu</span></a></li>
@@ -23,11 +23,11 @@
         <section class="top-bar-section">
           <!-- Right Nav Section -->
           <ul class="right">
-            <li class=""><a href="<?=base_url() ?>index.php/home">Inicio</a></li>
-            <li class=""><a href="<?=base_url() ?>index.php/servicios">Servicios</a></li>
-            <li class=""><a href="<?=base_url() ?>index.php/nosotros">Nosotros</a></li>
-            <li class=""><a href="<?=base_url() ?>/blog">Blog</a></li>
-            <li class="active"><a href="<?=base_url() ?>index.php/contacto">Contacto</a></li>
+            <li class=""><a href="http://sereteli.coredev.io/index.php/home">Inicio</a></li>
+            <li class=""><a href="http://sereteli.coredev.io/index.php/servicios">Servicios</a></li>
+            <li class=""><a href="http://sereteli.coredev.io/index.php/nosotros">Nosotros</a></li>
+            <li class=""><a href="http://sereteli.coredev.io//blog">Blog</a></li>
+            <li class="active"><a href="http://sereteli.coredev.io/index.php/contacto">Contacto</a></li>
           </ul>
           
         </section>
@@ -39,7 +39,7 @@
     -->
     <ul class="example-orbit" data-orbit>
       <li>
-        <img src="<?=base_url() ?>assets/img/bg3.png" alt="slide 1" />
+        <img src="http://sereteli.coredev.io/assets/img/bg3.png" alt="slide 1" />
     
     </li>
 
@@ -144,7 +144,7 @@
       <ul>
         <li>• Servicios Especializados en Teleinformática S.A. de C.V., (Sereteli), con domicilio en Avenida Universidad 580-22, Col. Vértiz Narvarte, C.P. 03600 Delegación Benito Juárez, México D.F. utilizará sus datos personales recabados para Administración y operación de los servicios que como cliente contrata con nosotros; La creación, seguimiento, actualización del historial de compras y facturación de servicios; Comunicación y contacto para seguimiento de los servicios contratados</li>
       </ul>
-      <p>Para mayor información acerca del tratamiento y de los derechos que puede hacer valer, usted puede acceder al aviso de privacidad integral a través de <a href="<?=base_url() ?>index.php/Privacidad">www.sereteli.com.mx</a></p>
+      <p>Para mayor información acerca del tratamiento y de los derechos que puede hacer valer, usted puede acceder al aviso de privacidad integral a través de <a href="http://sereteli.coredev.io/index.php/Privacidad">www.sereteli.com.mx</a></p>
       <hr>
     </div>
 
@@ -161,7 +161,7 @@
     <!-- Button Size Classes: [tiny small large] -->
         <li><a href="" class="button">Derechos reservados Sereteli</a></li>
         <li><a href="http://coredev.io" class="button">Diseñado y desarrollado por Coredev</a></li>
-        <li><a href="<?=base_url() ?>index.php/Privacidad" class="button">Aviso de privacidad</a></li>
+        <li><a href="http://sereteli.coredev.io/index.php/Privacidad" class="button">Aviso de privacidad</a></li>
         <li><a href="#" class="button"><i class="fa fa-facebook-square"></i></a></li>
         <li><a href="#" class="button"><i class="fa fa-twitter-square"></i></a></li>
       </ul>
@@ -176,8 +176,8 @@
   </div>
 </div>
 
-<script src="<?=base_url() ?>bower_components/jquery/dist/jquery.min.js"></script>
-<script src="<?=base_url() ?>bower_components/foundation/js/foundation.min.js"></script>
-<script src="<?=base_url() ?>assets/js/app.js"></script>
+<script src="http://sereteli.coredev.io/bower_components/jquery/dist/jquery.min.js"></script>
+<script src="http://sereteli.coredev.io/bower_components/foundation/js/foundation.min.js"></script>
+<script src="http://sereteli.coredev.io/assets/js/app.js"></script>
 </body>
 </html>
